@@ -1,7 +1,7 @@
 ## Olá, sou o Carlos Augusto...
 
 - 👨‍💻 Estudante de Sistemas para Internet
-- 💬 Atualmente dedicado a evoluir em Java, SpringBoot, Selenium, Scrum.
+- 💬 Atualmente aprendendo Java, SpringBoot, Selenium, Scrum.
 - 😁 Buscando estágio em Java ou QA  
 
 <div align="center">
